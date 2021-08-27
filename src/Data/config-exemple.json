@@ -1,0 +1,5 @@
+{
+	"token": "<discord bot token>",
+	"prefix": "*",
+	"cmc_api_token" : "<mcm api token>"
+}

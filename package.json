@@ -1,0 +1,14 @@
+{
+	"name": "ticker bot",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"author": "popy1970",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"currency.js": "^2.0.4",
+		"discord.js": "^13.0.1",
+		"request": "^2.88.2",
+		"request-promise": "^4.2.6"
+	}
+}
