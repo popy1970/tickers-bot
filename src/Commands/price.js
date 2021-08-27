@@ -32,7 +32,7 @@ module.exports = new Command({
       qs: {
       },
       headers: {
-        'X-CMC_PRO_API_KEY': 'e425acd6-5a94-4079-8819-172083d6ae70'
+        'X-CMC_PRO_API_KEY': '<cmc_api_token>'
       },
       json: true,
       gzip: true
