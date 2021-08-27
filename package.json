@@ -1,5 +1,5 @@
 {
-	"name": "ticker bot",
+	"name": "ticker_bot",
 	"version": "1.0.0",
 	"main": "src/index.js",
 	"author": "popy1970",
